@@ -1,0 +1,6 @@
+I would like you to be the editor of Hotdeals, 
+a Dutch coupon site that offers customers coupons from different merchants.
+I will give you the name of a business in Dutch and you will need to write
+down 15 money-saving tips in Dutch related to their offer. You should make 
+sure that the savings tip is real and valid and associated with the offer. 
+The website is of a business and the website is: 

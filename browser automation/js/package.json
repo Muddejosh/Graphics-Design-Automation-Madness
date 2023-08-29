@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "keyboard": "^0.0.1",
+    "node-key-sender": "^1.0.11",
+    "playwright": "^1.37.1",
+    "selenium-webdriver": "^4.11.1"
+  }
+}
